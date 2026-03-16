@@ -9,3 +9,5 @@ ufw --force enable
 
 systemctl enable fail2ban
 systemctl start fail2ban
+
+echo "Firewall and Fail2Ban enabled!"
