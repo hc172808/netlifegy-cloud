@@ -1,0 +1,13 @@
+Clone repo to server
+
+Update .env with secure passwords
+
+Run sudo ./install.sh
+
+Access services via browser:
+| Service       | Port |
+| ------------- | ---- |
+| Portainer     | 9000 |
+| Grafana       | 3000 |
+| MinIO Console | 9001 |
+| Traefik UI    | 8080 |
