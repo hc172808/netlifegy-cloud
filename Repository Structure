@@ -1,0 +1,22 @@
+netlifegy-cloud/
+│
+├── README.md
+├── .env
+├── install.sh
+│
+├── docker/
+│   ├── docker-compose.yml
+│
+├── traefik/
+│   └── traefik.yml
+│
+├── prometheus/
+│   └── prometheus.yml
+│
+├── scripts/
+│   ├── install-docker.sh
+│   └── install-security.sh
+│
+└── configs/
+    ├── pgadmin.env
+    └── minio.env
