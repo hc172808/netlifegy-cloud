@@ -1,0 +1,6 @@
+| Service       | Port/URL              |
+| ------------- | --------------------- |
+| Portainer     | http://SERVER_IP:9000 |
+| Grafana       | http://SERVER_IP:3000 |
+| MinIO Console | http://SERVER_IP:9001 |
+| Traefik UI    | http://SERVER_IP:8080 |
